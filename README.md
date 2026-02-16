@@ -3,6 +3,6 @@ This is a repository for hosting GaragePro SDK library (Serial communication) fo
 
 ## Release Notes (Only for stable versions)
 
-### Version 1 (1.0)
+### Version 2 (1.1)
 First release of the GaragePro USB SDK. This contains two features - Read Fault Codes and Clear Fault Codes in any vehicle (Only full scan allowed)
 

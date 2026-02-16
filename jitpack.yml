@@ -1,3 +1,0 @@
-install: 
- - FILE="-Dfile=garageprosdkusb-1.0.aar" 
- - mvn install:install-file $FILE -DgroupId=com.zymbia -DartifactId=garageprosdkusb -Dversion=1.0 -Dpackaging=aar -DpomFile=garageprosdkusb-1.0.pom
